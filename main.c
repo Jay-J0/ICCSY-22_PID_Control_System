@@ -3,8 +3,6 @@
 #include "math.h"
 #include <util/delay.h>
 
-float w = 185.0; // Distance to middle in mm
-float t = 20 / 1000; // Time per period
 float i = 1.0;
 
 uint16_t leesSensorWaarde();
